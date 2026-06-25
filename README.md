@@ -382,7 +382,7 @@ OfficeManagementSystem/
 This project was developed as a semester final project for **CMPE-232L — Database Systems Lab** at the **University of Engineering and Technology (UET), Lahore**.
 
 | Name | Responsibility |
-|---|---|---|
+|---|---|
 | Syeda Tehreem Fatima | Backend (ASP.NET Web API), Frontend (HTML/CSS/JS), Integration |
 | Tooba Iftikhar | Stored Procedures, Triggers, Views |
 | Haleema Ahsan | MySQL Database Schema |
